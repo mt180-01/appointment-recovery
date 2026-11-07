@@ -4,7 +4,7 @@ An offline NanoAgent plugin for rebooking appointments displaced by a fictional 
 
 ## Tools
 
-The recover-appointments task exposes list_appointments, list_slots, and book_slots. The standalone book_slot tool remains available for individual bookings. The hidden check_workspace reference tool enforces a fresh workspace.
+The `recover-appointments` task exposes `list_appointments`, `list_slots` and `book_slots`. The standalone `book_slot` tool remains available for individual bookings. The hidden `check_workspace` reference tool enforces a fresh workspace.
 
 ## Layout
 
